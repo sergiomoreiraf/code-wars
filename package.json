@@ -1,0 +1,26 @@
+{
+  "name": "code-wars",
+  "version": "1.0.0",
+  "description": "My own implementation for Katas from Code Wars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiomoreiraf/code-wars.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergiomoreiraf/code-wars/issues"
+  },
+  "homepage": "https://github.com/sergiomoreiraf/code-wars#readme",
+  "devDependencies": {
+    "@types/jest": "^24.0.21",
+    "jest": "^24.9.0",
+    "ts-jest": "^24.1.0",
+    "typescript": "^3.6.4"
+  }
+}
