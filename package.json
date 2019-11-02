@@ -1,18 +1,15 @@
 {
   "name": "code-wars",
-  "version": "1.0.0",
   "description": "My own implementation for Katas from Code Wars",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest",
+    "build": "tsc",
+    "watch": "tsc --watch"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sergiomoreiraf/code-wars.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/sergiomoreiraf/code-wars/issues"
   },
